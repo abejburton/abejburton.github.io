@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - abejburton
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - uchicago-capp122-winter23/databased_project
+  - abejburton/ML_econometrics
+  - abejburton/prediction_588
+  - abejburton/is_303
+
