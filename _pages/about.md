@@ -23,8 +23,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Data Science master's student at [UChicago MSCAPP](https://harris.uchicago.edu/academics/degrees/ms-computational-analysis-public-policy-mscapp) with an emphasis in urban policy. I am focused on using data to create more `equitable and sustainable cities`. I'm interested in how `transportation`, `walkability`, and `zoning` can create a higher quality of life in cities.
+Data Science master's student at [UChicago MSCAPP](https://harris.uchicago.edu/academics/degrees/ms-computational-analysis-public-policy-mscapp) with an emphasis in urban policy. I'm experienced combining machine learning and causal inference techniques to extract insights from data.
 
-My undergraduate background is in economics and statistics. In graduate school I'm merging the tools of causal inference with machine learning and a broader data science skillset to conduct research and build data applications that provide insight into the things I care about.
+I interested in using data to create more `equitable and sustainable cities`. I care about using `transportation`, `walkability`, `zoning`, and `tax policy` to create a higher quality of life in cities.
 
-Check out my Github and blog for comments on projects that I'm working on.
+My undergraduate background is in economics and statistics. In graduate school I'm merging the tools of econometrics with machine learning and a broader data science skillset to conduct research and build data applications that provide insight into the things I care about.
