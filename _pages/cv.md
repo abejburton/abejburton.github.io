@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-cv_pdf: resume_2023.pdf
+cv_pdf: AbrahamBurton_resume.pdf
 ---
