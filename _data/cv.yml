@@ -14,7 +14,7 @@
       year: 2022-2024
       description:
         - Data Science degree with a specialization in urban policy
-        - title: Sample Courses:
+        - title: Sample Courses
           contents:
             - Generative AI
             - Big Data and Cloud Computing
@@ -26,7 +26,7 @@
       description:
         - Economics major with a specialization in econometrics and machine learning
         - Statistics Minor
-        - title: Sample Courses:
+        - title: Sample Courses
           contents:
             - Machine Learning For Economists
             - Advanced Econometrics
