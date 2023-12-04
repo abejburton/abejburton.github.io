@@ -6,7 +6,7 @@ subtitle: <a href='https://www.linkedin.com/in/abe-burton/'>LinkedIn</a> | <a hr
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p><a href="mailto:abejburton@gmail.com">abejburton@gmail.com</a></p>
